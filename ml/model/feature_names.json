@@ -1,0 +1,17 @@
+[
+  "totalScreenTime",
+  "socialMediaTime",
+  "gamingTime",
+  "entertainmentTime",
+  "educationTime",
+  "productivityTime",
+  "numberOfSessions",
+  "averageSessionDuration",
+  "lateNightUsage",
+  "earlyMorningUsage",
+  "sevenDayAverage",
+  "usageChangePercentage",
+  "socialMediaPercentage",
+  "gamingPercentage",
+  "productivePercentage"
+]

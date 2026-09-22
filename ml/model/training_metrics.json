@@ -1,0 +1,30 @@
+{
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "cv_f1_mean": 0.999,
+  "cv_f1_std": 0.0014,
+  "n_samples": 3000,
+  "feature_names": [
+    "totalScreenTime",
+    "socialMediaTime",
+    "gamingTime",
+    "entertainmentTime",
+    "educationTime",
+    "productivityTime",
+    "numberOfSessions",
+    "averageSessionDuration",
+    "lateNightUsage",
+    "earlyMorningUsage",
+    "sevenDayAverage",
+    "usageChangePercentage",
+    "socialMediaPercentage",
+    "gamingPercentage",
+    "productivePercentage"
+  ],
+  "classes": [
+    "LOW",
+    "MODERATE",
+    "HIGH",
+    "CRITICAL"
+  ]
+}

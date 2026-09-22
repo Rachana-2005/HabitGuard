@@ -1,0 +1,111 @@
+{
+  "baselines": {
+    "totalScreenTime": {
+      "mean": 256.07,
+      "std": 146.15,
+      "healthy_mean": 95.73,
+      "healthy_std": 25.54
+    },
+    "socialMediaTime": {
+      "mean": 98.63,
+      "std": 77.75,
+      "healthy_mean": 23.33,
+      "healthy_std": 10.29
+    },
+    "gamingTime": {
+      "mean": 48.89,
+      "std": 40.98,
+      "healthy_mean": 14.22,
+      "healthy_std": 8.5
+    },
+    "entertainmentTime": {
+      "mean": 54.89,
+      "std": 40.71,
+      "healthy_mean": 18.74,
+      "healthy_std": 10.49
+    },
+    "educationTime": {
+      "mean": 23.34,
+      "std": 14.43,
+      "healthy_mean": 25.86,
+      "healthy_std": 13.41
+    },
+    "productivityTime": {
+      "mean": 19.42,
+      "std": 12.41,
+      "healthy_mean": 20.49,
+      "healthy_std": 11.07
+    },
+    "numberOfSessions": {
+      "mean": 50.15,
+      "std": 29.97,
+      "healthy_mean": 19.68,
+      "healthy_std": 7.86
+    },
+    "averageSessionDuration": {
+      "mean": 5.64,
+      "std": 2.64,
+      "healthy_mean": 6.08,
+      "healthy_std": 4.13
+    },
+    "lateNightUsage": {
+      "mean": 42.69,
+      "std": 44.64,
+      "healthy_mean": 4.31,
+      "healthy_std": 4.44
+    },
+    "earlyMorningUsage": {
+      "mean": 14.99,
+      "std": 12.43,
+      "healthy_mean": 4.94,
+      "healthy_std": 4.16
+    },
+    "sevenDayAverage": {
+      "mean": 250.75,
+      "std": 142.23,
+      "healthy_mean": 95.61,
+      "healthy_std": 26.06
+    },
+    "usageChangePercentage": {
+      "mean": 9.8,
+      "std": 21.54,
+      "healthy_mean": -0.4,
+      "healthy_std": 11.74
+    },
+    "socialMediaPercentage": {
+      "mean": 34.81,
+      "std": 13.05,
+      "healthy_mean": 25.62,
+      "healthy_std": 11.45
+    },
+    "gamingPercentage": {
+      "mean": 18.2,
+      "std": 9.3,
+      "healthy_mean": 15.82,
+      "healthy_std": 9.69
+    },
+    "productivePercentage": {
+      "mean": 27.07,
+      "std": 24.98,
+      "healthy_mean": 52.64,
+      "healthy_std": 28.14
+    }
+  },
+  "feature_importances": {
+    "totalScreenTime": 0.2673,
+    "sevenDayAverage": 0.2357,
+    "socialMediaTime": 0.1407,
+    "lateNightUsage": 0.1092,
+    "numberOfSessions": 0.0747,
+    "productivePercentage": 0.0604,
+    "entertainmentTime": 0.0385,
+    "gamingTime": 0.0339,
+    "earlyMorningUsage": 0.0146,
+    "productivityTime": 0.0088,
+    "socialMediaPercentage": 0.0067,
+    "educationTime": 0.0045,
+    "averageSessionDuration": 0.0026,
+    "usageChangePercentage": 0.0011,
+    "gamingPercentage": 0.0011
+  }
+}

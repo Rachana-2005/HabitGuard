@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "369224148417",
+    "project_id": "habitguard-b169e",
+    "storage_bucket": "habitguard-b169e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369224148417:android:b01754ab21da47cb2dfb40",
+        "android_client_info": {
+          "package_name": "com.habitguard.habitguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369224148417-e2t4c92c4e0mpohf69s8c1voci19fio7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.habitguard.habitguard",
+            "certificate_hash": "3763404fcf51e8b56330f7e9f526547271f22c9d"
+          }
+        },
+        {
+          "client_id": "369224148417-00fr7bs5iqprd2is4i03breofc0938pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi9WBtveG2EiWap3phUMy1pJKgwJkbhLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369224148417-00fr7bs5iqprd2is4i03breofc0938pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
